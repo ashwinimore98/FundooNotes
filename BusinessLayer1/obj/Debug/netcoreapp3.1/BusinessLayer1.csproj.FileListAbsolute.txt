@@ -1,0 +1,15 @@
+C:\Users\morea\OneDrive\Desktop\newone\BusinessLayer1\bin\Debug\netcoreapp3.1\BusinessLayer1.deps.json
+C:\Users\morea\OneDrive\Desktop\newone\BusinessLayer1\bin\Debug\netcoreapp3.1\BusinessLayer1.dll
+C:\Users\morea\OneDrive\Desktop\newone\BusinessLayer1\bin\Debug\netcoreapp3.1\BusinessLayer1.pdb
+C:\Users\morea\OneDrive\Desktop\newone\BusinessLayer1\obj\Debug\netcoreapp3.1\BusinessLayer1.csproj.AssemblyReference.cache
+C:\Users\morea\OneDrive\Desktop\newone\BusinessLayer1\obj\Debug\netcoreapp3.1\BusinessLayer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morea\OneDrive\Desktop\newone\BusinessLayer1\obj\Debug\netcoreapp3.1\BusinessLayer1.AssemblyInfoInputs.cache
+C:\Users\morea\OneDrive\Desktop\newone\BusinessLayer1\obj\Debug\netcoreapp3.1\BusinessLayer1.AssemblyInfo.cs
+C:\Users\morea\OneDrive\Desktop\newone\BusinessLayer1\obj\Debug\netcoreapp3.1\BusinessLayer1.csproj.CoreCompileInputs.cache
+C:\Users\morea\OneDrive\Desktop\newone\BusinessLayer1\obj\Debug\netcoreapp3.1\BusinessLayer1.dll
+C:\Users\morea\OneDrive\Desktop\newone\BusinessLayer1\obj\Debug\netcoreapp3.1\BusinessLayer1.pdb
+C:\Users\morea\OneDrive\Desktop\newone\BusinessLayer1\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\morea\OneDrive\Desktop\newone\BusinessLayer1\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\morea\OneDrive\Desktop\newone\BusinessLayer1\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\morea\OneDrive\Desktop\newone\BusinessLayer1\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\morea\OneDrive\Desktop\newone\BusinessLayer1\obj\Debug\netcoreapp3.1\BusinessLayer1.csproj.CopyComplete

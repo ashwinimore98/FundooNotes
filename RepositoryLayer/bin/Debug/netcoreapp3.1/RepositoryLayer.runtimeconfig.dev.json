@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\morea\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\morea\\.nuget\\packages"
+    ]
+  }
+}
